@@ -50,7 +50,7 @@
 											<li><a href="generic.php" class="button">Learn More</a></li>
 										</ul>
 									</div>
-									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+									<span class="image"><img src="https://akcdn.detik.net.id/community/media/visual/2021/04/15/huawei-matebook.webp?w=700&q=90.jpg" alt="" /></span>
 								</div>
 							</section>
 
