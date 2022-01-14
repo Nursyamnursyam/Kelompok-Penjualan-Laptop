@@ -87,7 +87,8 @@
 							<section id="second" class="main special">
 								<header class="major">
 									<h2>Contact</h2>
-									<p>Halo, Hubungi kami melalui akun dibawah ini.</p>
+									<p>Halo, Hubungi kami melalui nomor Whatsapp dibawah ini.</p>
+									<p>082154764419</p>
 								</header>
 								<!-- <ul class="statistics">
 									<li class="style1">
@@ -113,9 +114,9 @@
 								</ul>
 								 -->
 								<footer class="major">
-									<ul class="actions special">
+									<!-- <ul class="actions special">
 										<li><a href="generic.html" class="button">Learn More</a></li>
-									</ul>
+									</ul> -->
 								</footer>
 							</section>
 
