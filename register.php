@@ -82,12 +82,12 @@ if ($_SESSION['kasir']) {
 
                             <div class="col-xs-4">
 
-                                <input type="submit" name="regis" value="Login" class="btn btn-block bg-pink waves-effect">
+                                <input type="submit" name="regis" value="Register" class="btn btn-block bg-pink waves-effect">
                             </div>
                         </div>
                         <br>
                         <center>
-                            <p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p>
+                            <!-- <p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p> -->
                         </center>
 
                     </form>
