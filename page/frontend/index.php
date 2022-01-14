@@ -63,17 +63,17 @@
 									<li>
 										<span class="icon solid major style1 fa-code"></span>
 										<h3>Arham Saputra</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<p>Mahasiswa Prodi Teknik Informatika Fakultas Teknik Universitas Islam Makassar. Daerah asal yaitu Enrekang.</p>
 									</li>
 									<li>
 										<span class="icon major style3 fa-copy"></span>
 										<h3>Nursyam</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<p>Mahasiswi Prodi Teknik Informatika semester lima Fakultas Teknik Universitas Islam Makassar. Daerah Asal yaitu Enrekang.</p>
 									</li>
 									<li>
 										<span class="icon major style5 fa-gem"></span>
 										<h3>Arafat</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<p>Mahasiswa Prodi Teknik Informatika Fakultas Teknik Universitas Islam Makassar. Daerah asal yaitu Enrekang.</p>
 									</li>
 								</ul>
 								<footer class="major">
@@ -87,10 +87,9 @@
 							<section id="second" class="main special">
 								<header class="major">
 									<h2>Contact</h2>
-									<p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-									posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+									<p>Halo, Hubungi kami melalui akun dibawah ini.</p>
 								</header>
-								<ul class="statistics">
+								<!-- <ul class="statistics">
 									<li class="style1">
 										<span class="icon solid fa-code-branch"></span>
 										<strong>5,120</strong> Etiam
@@ -112,7 +111,7 @@
 										<strong>1,024</strong> Nullam
 									</li>
 								</ul>
-								<p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
+								 -->
 								<footer class="major">
 									<ul class="actions special">
 										<li><a href="generic.html" class="button">Learn More</a></li>
@@ -121,19 +120,17 @@
 							</section>
 
 						<!-- Get Started -->
-							<section id="cta" class="main special">
-								<header class="major">
-									<h2>Congue imperdiet</h2>
-									<p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-									posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
-								</header>
-								<footer class="major">
-									<ul class="actions special">
-										<li><a href="generic.html" class="button primary">Get Started</a></li>
-										<li><a href="generic.html" class="button">Learn More</a></li>
-									</ul>
-								</footer>
-							</section>
+								<!-- <section id="cta" class="main special">
+									<header class="major">
+
+									</header>
+									<footer class="major">
+										<ul class="actions special">
+											<li><a href="generic.html" class="button primary">Get Started</a></li>
+											<li><a href="generic.html" class="button">Learn More</a></li>
+										</ul>
+									</footer>
+								</section> -->
 
 					</div>
 
