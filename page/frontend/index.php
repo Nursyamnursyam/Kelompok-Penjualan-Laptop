@@ -31,7 +31,7 @@
 							<li><a href="#intro" class="active">Home</a></li>
 							<li><a href="#first">About</a></li>
 							<li><a href="#second">Contact</a></li>
-							<li><a href="#cta">Get Started</a></li>
+							<!-- <li><a href="#cta">Get Started</a></li> -->
 						</ul>
 					</nav>
 
@@ -78,7 +78,7 @@
 								</ul>
 								<footer class="major">
 									<ul class="actions special">
-										<li><a href="generic.html" class="button">Learn More</a></li>
+										<!-- <li><a href="generic.html" class="button">Learn More</a></li> -->
 									</ul>
 								</footer>
 							</section>
