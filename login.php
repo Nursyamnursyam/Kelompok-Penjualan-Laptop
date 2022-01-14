@@ -41,7 +41,7 @@ if ($_SESSION['kasir']) {
             <div class="card">
                 <div class="body">
                     <form id="sign_in" method="POST">
-                        <div class="msg">Masukan Username dan Password</div>
+                        <div class="msg">Silakan masukan Username dan Password</div>
                         <div class="input-group">
                             <span class="input-group-addon">
                                 <i class="material-icons">person</i>
@@ -104,6 +104,7 @@ if ($_SESSION['kasir']) {
         $sql = $koneksi->query("select * from user where username='$username' and password='$password' ");
         $ketemu = $sql->num_rows;
         $data = $sql->fetch_assoc();
+        echo $data;
 
         if ($ketemu >= 1) {
             session_start();
